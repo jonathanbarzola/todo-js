@@ -1,3 +1,3 @@
 # To Do App
 
-Una aplicación To Do, hecha con JavaScript, HTML y CSS.
+Una aplicación To Do / Lista de tareas, hecha con JavaScript, HTML y CSS.
